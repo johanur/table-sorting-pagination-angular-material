@@ -1,0 +1,16 @@
+table {
+    width: 100%;
+}
+
+h3 {
+    text-align: center;
+}
+
+.highlight{
+    background: #CFD8DC; 
+}
+
+.container-fluid {
+    margin-top: 20px;
+}
+  
